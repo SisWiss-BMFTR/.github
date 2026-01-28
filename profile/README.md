@@ -20,3 +20,10 @@ Welcome to the official GitHub Organization of the BMFTR-funded research project
 
 > [!NOTE]
 > Funded by the [German Federal Ministry of Research, Technology and Space (**BMFTR**)](https://www.bmftr.bund.de/EN/Home/home_node.html) under grant number 16KIS2328K.
+
+## Related Work
+| Title  | Authors | Venue |
+| :---: | :---: | :---: |
+| [Towards Sensitivity-Aware Language Models](https://drenfazlija.github.io/towards-sa-llms/) | **Dren Fazlija**, Iyiola E. Olatunji, **Daniel Kudenko**, Sandipan Sikdar | [AISTATS 2026](https://virtual.aistats.org/Conferences/2026) |
+| [ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://arxiv.org/abs/2511.05359) | **Amr Gomaa**, Ahmed Salem, Sahar Abdelnabi | [EACL 2026](https://2026.eacl.org/) |
+| [ACCESS DENIED INC: The First Benchmark Environment for Sensitivity Awareness](https://aclanthology.org/2025.findings-acl.684/) | **Dren Fazlija**, Arkadij Orlov, Sandipan Sikdar | [ACL 2025](https://2025.aclweb.org/) |
