@@ -24,6 +24,7 @@ Welcome to the official GitHub Organization of the BMFTR-funded research project
 ## Related Work
 | Title  | Authors | Venue |
 | :---: | :---: | :---: |
+| [Out-of-context and out-of-scope: Manipulating large language models through minimal instruction set modifications](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341558) | **Monty-Maximilian Zühlke**, **Daniel Kudenko**, Wolfgang Nejdl | [PLOS One](https://journals.plos.org/plosone/) |
 | [Towards Sensitivity-Aware Language Models](https://drenfazlija.github.io/towards-sa-llms/) | **Dren Fazlija**, Iyiola E. Olatunji, **Daniel Kudenko**, Sandipan Sikdar | [AISTATS 2026](https://virtual.aistats.org/Conferences/2026) |
 | [ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://arxiv.org/abs/2511.05359) | **Amr Gomaa**, Ahmed Salem, Sahar Abdelnabi | [EACL 2026](https://2026.eacl.org/) |
 | [ACCESS DENIED INC: The First Benchmark Environment for Sensitivity Awareness](https://aclanthology.org/2025.findings-acl.684/) | **Dren Fazlija**, Arkadij Orlov, Sandipan Sikdar | [ACL 2025](https://2025.aclweb.org/) |
