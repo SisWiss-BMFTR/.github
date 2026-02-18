@@ -28,6 +28,7 @@ Welcome to the official GitHub Organization of the BMFTR-funded research project
 | Thorben Warnebold | Lead | Laverana |
 | Aaron Ruß | Research Associate | DFKI |
 | Dren Fazlija | Research Associate (PhD Student) | L3S |
+| Amr Gomaa | Research Associate (PhD Student) | DFKI |
 | Devansh Srivastav | Research Associate (PhD Student) | CISPA |
 | Yuan Xue | Research Associate (PhD Student) | L3S |
 | Monty-Maximilian Zühlke | Research Associate (PhD Student) | L3S |
