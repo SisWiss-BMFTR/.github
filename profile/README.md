@@ -18,6 +18,22 @@ Welcome to the official GitHub Organization of the BMFTR-funded research project
 | [Laverana GmbH & Co. KG (**Laverana**)](https://www.laverana.com/) | Large Enterprise | Thorben Warnebold |
 | [AandBI.com GmbH (**AandBI**)](https://www.aandbi.com/indexMain.php) | Small and Medium-sized Enterprise| Markus Grete |
 
+### Current Members
+| Name | Position(s) | Organization |
+| :---: | :---: | :---: |
+| Dr. Daniel Kudenko | Lead & Project Coordinator | L3S |
+| Markus Grete | Lead | AandBI |
+| Dr. Stefan Schaffer | Lead | DFKI |
+| Dr. Lea Schönherr | Lead | CISPA |
+| Thorben Warnebold | Lead | Laverana |
+| Aaron Ruß | Research Associate | DFKI |
+| Dren Fazlija | Research Associate (PhD Student) | L3S |
+| Devansh Srivastav | Research Associate (PhD Student) | CISPA |
+| Yuan Xue | Research Associate (PhD Student) | L3S |
+| Monty-Maximilian Zühlke | Research Associate (PhD Student) | L3S |
+
+
+
 > [!NOTE]
 > Funded by the [German Federal Ministry of Research, Technology and Space (**BMFTR**)](https://www.bmftr.bund.de/EN/Home/home_node.html) under grant number 16KIS2328K.
 
@@ -28,3 +44,4 @@ Welcome to the official GitHub Organization of the BMFTR-funded research project
 | [Towards Sensitivity-Aware Language Models](https://drenfazlija.github.io/towards-sa-llms/) | **Dren Fazlija**, Iyiola E. Olatunji, **Daniel Kudenko**, Sandipan Sikdar | [AISTATS 2026](https://virtual.aistats.org/Conferences/2026) |
 | [ConVerse: Benchmarking Contextual Safety in Agent-to-Agent Conversations](https://arxiv.org/abs/2511.05359) | **Amr Gomaa**, Ahmed Salem, Sahar Abdelnabi | [EACL 2026](https://2026.eacl.org/) |
 | [ACCESS DENIED INC: The First Benchmark Environment for Sensitivity Awareness](https://aclanthology.org/2025.findings-acl.684/) | **Dren Fazlija**, Arkadij Orlov, Sandipan Sikdar | [ACL 2025](https://2025.aclweb.org/) |
+| [Firewalls to Secure Dynamic LLM Agentic Networks](https://arxiv.org/abs/2502.01822) | Sahar Abdelnabi, **Amr Gomaa**, Eugene Bagdasarian, Per Ola Kristensson, Reza Shokri | arXiv |
